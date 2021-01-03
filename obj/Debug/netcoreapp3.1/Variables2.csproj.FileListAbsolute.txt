@@ -1,0 +1,13 @@
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\Variables2\bin\Debug\netcoreapp3.1\Variables2.exe
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\Variables2\bin\Debug\netcoreapp3.1\Variables2.deps.json
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\Variables2\bin\Debug\netcoreapp3.1\Variables2.runtimeconfig.json
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\Variables2\bin\Debug\netcoreapp3.1\Variables2.runtimeconfig.dev.json
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\Variables2\bin\Debug\netcoreapp3.1\Variables2.dll
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\Variables2\bin\Debug\netcoreapp3.1\Variables2.pdb
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\Variables2\obj\Debug\netcoreapp3.1\Variables2.csprojAssemblyReference.cache
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\Variables2\obj\Debug\netcoreapp3.1\Variables2.AssemblyInfoInputs.cache
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\Variables2\obj\Debug\netcoreapp3.1\Variables2.AssemblyInfo.cs
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\Variables2\obj\Debug\netcoreapp3.1\Variables2.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\Variables2\obj\Debug\netcoreapp3.1\Variables2.dll
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\Variables2\obj\Debug\netcoreapp3.1\Variables2.pdb
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\Variables2\obj\Debug\netcoreapp3.1\Variables2.genruntimeconfig.cache
